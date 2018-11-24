@@ -1,0 +1,13 @@
+/*body{
+ background-color: red;
+}*/
+
+
+.square {
+  margin: 2px;
+  border: 1px solid #ccc;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  /*background: purple;*/
+}
